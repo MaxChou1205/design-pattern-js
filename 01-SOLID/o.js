@@ -52,6 +52,7 @@ let products = [apple, tree, house];
 // ↑↑↑ BEFORE
 
 // ↓↓↓ AFTER
+// 新增功能時，以增加 class 或 function 為主，而不是改原本的程式碼
 
 // general interface for a specification
 class ColorSpecification {

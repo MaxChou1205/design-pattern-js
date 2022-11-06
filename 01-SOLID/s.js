@@ -37,6 +37,8 @@ class Journal {
   // }
 }
 
+// 一個 class 或 function 只做一件(相關的)事情
+
 Journal.count = 0;
 let j = new Journal();
 j.addEntry("I cried today.");
