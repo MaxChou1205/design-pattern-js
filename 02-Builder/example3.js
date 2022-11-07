@@ -43,7 +43,6 @@ class CodeBuilder {
   }
 }
 
-//
 let cb = new CodeBuilder("Person");
 cb.addField("name").addField("age");
 console.log(cb.toString());
